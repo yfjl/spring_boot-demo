@@ -1,0 +1,62 @@
+#QQEmail Config
+#??????:http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=369
+#????????:http://service.mail.qq.com/cgi-bin/help?subtype=1&&no=1001256&&id=28
+spring:
+  mail:
+    host: smtp.qq.com #???????
+    username: 1140608363@qq.com #QQ??
+    password: ldzitjwxjwonbabh #??????
+    protocol: smtp #??????
+    properties.mail.smtp.auth: true
+    properties.mail.smtp.port: 465 #???465?587
+    properties.mail.display.sendmail: Javen #????
+    properties.mail.display.sendname: Spring Boot Guide Email #????
+    properties.mail.smtp.starttls.enable: true
+    properties.mail.smtp.starttls.required: true
+    properties.mail.smtp.ssl.enable: true
+    default-encoding: utf-8
+    from: 1140608363@qq.com #????username????
+#?????SSL???587???????QQ?????
+
+#??Email Config
+#??????:http://mail.163.com/html/110127_imap/index.htm#tab=android
+#????????:http://help.mail.163.com/faq.do?m=list&categoryID=197
+#spring:
+#  mail:
+#    host: smtp.126.com
+#    username: xx@126.com
+#    password: xxxxxxxx
+#    protocol: smtp
+#    properties.mail.smtp.auth: true
+#    properties.mail.smtp.port: 994 #465??994
+#    properties.mail.display.sendmail: Javen
+#    properties.mail.display.sendname: Spring Boot Guide Email
+#    properties.mail.smtp.starttls.enable: true
+#    properties.mail.smtp.starttls.required: true
+#    properties.mail.smtp.ssl.enable: true
+#    default-encoding: utf-8
+#    from: xx@126.com
+#126??SMTP?????:smtp.126.com,???:465??994
+#163??SMTP?????:smtp.163.com,???:465??994
+#yeah??SMTP?????:smtp.yeah.net,???:465??994
+
+#GooleEmail Config
+#??????:https://support.google.com/mail/answer/78754 ??????
+#spring:
+#  mail:
+#    host: smtp.gmail.com
+#    username:xxx@gmail.com
+#    password: xxxxx #Gmail????
+#    protocol: smtp
+#    properties.mail.smtp.auth: true
+#    properties.mail.smtp.port: 465
+#    properties.mail.display.sendmail: Javen
+#    properties.mail.display.sendname: Spring Boot Guide Email
+#    properties.mail.smtp.starttls.enable: true
+#    properties.mail.smtp.starttls.required: true
+#    properties.mail.smtp.ssl.enable: true
+#    from: xxx@gmail.com
+#    default-encoding: utf-8
+#Gmail ????????:smtp.gmail.com,???:465????????Gmail????????????SSL?
+#?????????????? ??????Authentication failed???
+#??????????????????????????
