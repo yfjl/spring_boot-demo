@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74528666-d8f4-40d9-a765-2411212473db" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../chapter10/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter13/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter13/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter15/src/main/java/com/battcn/scheduled/ScheduledExecutorServiceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter15/src/main/java/com/battcn/scheduled/ScheduledExecutorServiceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter15/src/main/java/com/battcn/timer/TimerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter15/src/main/java/com/battcn/timer/TimerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter15/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter15/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/battcn/controller/FileUploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/battcn/controller/FileUploadController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter17/src/main/java/com/battcn/config/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter17/src/main/java/com/battcn/config/GlobalExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter17/src/main/java/com/battcn/controller/ExceptionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter17/src/main/java/com/battcn/controller/ExceptionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter17/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter17/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter24/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter24/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter24/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter24/src/main/resources/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter6/src/main/java/com/battcn/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter6/src/main/java/com/battcn/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter6/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter6/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter8/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter8/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="74528666-d8f4-40d9-a765-2411212473db" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,25 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            <state relative-caret-position="60">
+              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileUploadController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FileUploadController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/battcn/controller/FileUploadController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="803">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="212">
+              <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -55,8 +33,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="-44">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chapter16Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/battcn/Chapter16Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -64,7 +51,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -89,12 +76,17 @@
         <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="89" />
+    <option name="x" value="175" />
     <option name="y" value="23" />
     <option name="width" value="1563" />
     <option name="height" value="952" />
@@ -105,9 +97,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,6 +148,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter16" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="chapter16" type="b2602c69:ProjectViewProjectNode" />
@@ -257,14 +257,15 @@
       <updated>1536286579708</updated>
       <workItem from="1536286582006" duration="4946000" />
       <workItem from="1540533628590" duration="422000" />
+      <workItem from="1540534532151" duration="2033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5368000" />
+    <option name="totallyTimeSpent" value="7401000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="54" width="1563" height="952" extended-state="0" />
+    <frame x="175" y="23" width="1563" height="952" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -277,7 +278,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.35672516" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35672516" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -288,7 +289,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25312296" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16962525" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -308,6 +309,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/battcn/controller/FileUploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -333,7 +358,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/battcn/Chapter16Application.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -342,24 +385,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/battcn/controller/FileUploadController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="803">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        <state relative-caret-position="212">
+          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
         </state>
       </provider>
     </entry>
